@@ -4,7 +4,7 @@ I am deeply passionate about technology with an unwavering commitment to pushing
 
 <p align="center">
   <a href="https://app.daily.dev/chaacxib">
-    <img src="https://api.daily.dev/devcards/v2/L6eYXmPz5NfZZkjcZV4Ji.png?type=wide&r=cvi" width="652" alt="ChaacXib's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/L6eYXmPz5NfZZkjcZV4Ji.png?type=wide&r=x8q" width="652" alt="ChaacXib's Dev Card"/>
   </a>
 </p>
 <p align="center">
