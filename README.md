@@ -1,11 +1,19 @@
-### Hi there 👋
+# Hi, I'm ChaacXib! 👋
 
-![ChaacXib's github stats](https://github-readme-stats.vercel.app/api?username=chaacxib&count_private=true&show_icons=true&theme=transparent)
+I am deeply passionate about technology with an unwavering commitment to pushing boundaries and driving innovation. My journey involves delving into the world of cloud architecture, exploring new ideas, and sharing my insights with the community.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaacxib&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🏅 My Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**chaacxib/chaacxib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
