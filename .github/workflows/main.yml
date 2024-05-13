@@ -11,5 +11,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: jair-solis.2baaf3fe # optional, but default will use the same from github
